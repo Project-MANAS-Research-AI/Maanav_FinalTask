@@ -1,5 +1,4 @@
-# BPE Implementation — Part B Analysis
-## BPE-Dropout as a Novel Addition to Vanilla BPE
+# TASK ANALYSIS
 
 ---
 
@@ -60,7 +59,7 @@ The honest limitation here is that the real benefit of dropout is not visible in
 
 ---
 
-## 5. Related Work
+## 5. Works Cited
 
 Sennrich, Haddow & Birch (2016) introduced BPE for NLP. The original implementation is fully deterministic with no stochasticity in encoding.
 
